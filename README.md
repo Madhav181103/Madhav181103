@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋 I'm Madhav
 
-<!--
-**Madhav181103/Madhav181103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Madhav181103&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
+##  Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Madhav181103&theme=tokyonight)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/Madhav_Dang?theme=dark&font=Nunito&ext=heatmap)
+
+##  GeeksforGeeks Stats
+[![GFG Stats](https://gfgstatscard.vercel.app/madhavza0i?theme=dark)](https://www.geeksforgeeks.org/user/madhavza0i/)
